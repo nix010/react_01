@@ -4,6 +4,7 @@
 **Note: For the sake of simplicity. I did backend and frontend in this same project folder !**
 
 backend contains of:
+
 /server
 
 Run `yarn` or `npm install` to install all the libs (I used `yarn`)
@@ -18,7 +19,6 @@ Run `yarn` or `npm install` to install all the libs (I used `yarn`)
 
 `cd server && node app.js`
 
-The data will be seeded each start up. Navigate to `localhost:3001/chart` to see the data
 
 ### For Frontend react
 
